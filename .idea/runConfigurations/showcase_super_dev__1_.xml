@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="showcase super dev (1)" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+    <module name="mgwt-showcase" />
+    <option name="SHELL_PARAMETERS" value="-bindAddress 192.168.0.17" />
+    <option name="RUN_PAGE" value="index.html" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <option name="USE_SUPER_DEV_MODE" value="true" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>

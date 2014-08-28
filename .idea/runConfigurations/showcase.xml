@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="showcase" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+    <module name="mgwt-showcase" />
+    <option name="RUN_PAGE" value="index.html" />
+    <option name="OPEN_IN_BROWSER" value="false" />
+    <RunnerSettings RunnerId="Run" />
+    <ConfigurationWrapper RunnerId="Run" />
+    <method />
+  </configuration>
+</component>
